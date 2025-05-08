@@ -10,11 +10,18 @@ Entanglement occurs when two particles share a quantum state, remaining correlat
 
 ⚛️ What Does This Script Do?
 
-🔥 Creates entangled particles → The system generates two "particles" with correlated states (0 or 1). 🌊 Quantum fluctuations → The particles oscillate in an undefined state before measurement. ⚡ Wavefunction collapse → When measured, the particles’ states are fixed. 🌀 Quantum decoherence → The wavefunction dissolves, transitioning into classical behavior. 🔄 Quantum glitch → During collapse, visual and sound effects simulate coherence loss. ✨ Probabilistic regeneration → The system may reconstruct itself and return to its original quantum state... or not!
+🔥 Creates entangled particles → The system generates two "particles" with correlated states (0 or 1). 
+🌊 Quantum fluctuations → The particles oscillate in an undefined state before measurement. 
+⚡ Wavefunction collapse → When measured, the particles’ states are fixed. 
+🌀 Quantum decoherence → The wavefunction dissolves, transitioning into classical behavior. 
+🔄 Quantum glitch → During collapse, visual and sound effects simulate coherence loss. 
+✨ Probabilistic regeneration → The system may reconstruct itself and return to its original quantum state... or not!
 
 🔊 Extra Effects
 
-🎶 Dynamic sound effects, reminiscent of vintage computer sounds, representing quantum fluctuations. 📡 Animated text to simulate oscillations and wavefunction collapse. 🎭 User interaction to choose the level of quantum uncertainty, customizing the experiment.
+🎶 Dynamic sound effects, reminiscent of vintage computer sounds, representing quantum fluctuations. 
+📡 Animated text to simulate oscillations and wavefunction collapse. 
+🎭 User interaction to choose the level of quantum uncertainty, customizing the experiment.
 
 🎬 Experiment Objective
 
