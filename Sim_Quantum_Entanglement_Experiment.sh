@@ -1,4 +1,5 @@
 #!/bin/bash
+# written by Andrea Giani
 
 # Function to change color
 color() {
