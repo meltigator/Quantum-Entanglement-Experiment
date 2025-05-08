@@ -8,6 +8,7 @@ With this Bash-based experiment, you can experience the mystery of quantum conne
 
 Entanglement occurs when two particles share a quantum state, remaining correlated regardless of their distance. When one particle is measured, the other immediately assumes a corresponding value, seemingly violating classical locality and hinting at interactions that are not yet fully understood by physics.
 
+
 ⚛️ What Does This Script Do?
 
 🔥 Creates entangled particles → The system generates two "particles" with correlated states (0 or 1). 
@@ -22,11 +23,15 @@ Entanglement occurs when two particles share a quantum state, remaining correlat
 
 ✨ Probabilistic regeneration → The system may reconstruct itself and return to its original quantum state... or not!
 
+
 🔊 Extra Effects
 
 🎶 Dynamic sound effects, reminiscent of vintage computer sounds, representing quantum fluctuations. 
+
 📡 Animated text to simulate oscillations and wavefunction collapse. 
+
 🎭 User interaction to choose the level of quantum uncertainty, customizing the experiment.
+
 
 🎬 Experiment Objective
 
