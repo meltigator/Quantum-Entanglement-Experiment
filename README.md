@@ -39,4 +39,7 @@ This project is not a rigorous simulation of quantum mechanics, but rather an ar
 
 The mystery of quantum mechanics remains far from being completely solved. But through this experience, you can get one step closer to grasping the strange reality of the quantum world. 🚀✨
 
+Here is a demo video:
+👉 https://lnkd.in/dft3_Fy8
+
 #quantummechanics #physics #experiment #universe #quantumphysics #science #coding #bash #quantumcomputing #entanglement
